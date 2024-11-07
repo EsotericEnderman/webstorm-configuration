@@ -1,0 +1,27 @@
+<application>
+  <component name="SshLocalRecentConnectionsManager">
+    <option name="connections">
+      <list>
+        <LocalRecentConnectionState>
+          <option name="configId" value="ea0c20db-9b99-42ca-ac50-28354ee46484" />
+          <option name="projects">
+            <list>
+              <RecentProjectState>
+                <option name="date" value="1724587737164" />
+                <option name="latestUsedIde">
+                  <RecentProjectInstalledIde>
+                    <option name="buildNumber" value="242.21829.43" />
+                    <option name="pathToIde" value="/home/d/.cache/JetBrains/RemoteDev/dist/4da1711b52632_WebStorm-242.21829.43" />
+                    <option name="productCode" value="WS" />
+                  </RecentProjectInstalledIde>
+                </option>
+                <option name="productCode" value="WS" />
+                <option name="projectPath" value="/home/d" />
+              </RecentProjectState>
+            </list>
+          </option>
+        </LocalRecentConnectionState>
+      </list>
+    </option>
+  </component>
+</application>

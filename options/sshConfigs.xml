@@ -1,0 +1,7 @@
+<application>
+  <component name="SshConfigs">
+    <configs>
+      <sshConfig authType="PASSWORD" host="mcserv.dub01.fornost.net" id="ea0c20db-9b99-42ca-ac50-28354ee46484" port="22" nameFormat="DESCRIPTIVE" username="d" useOpenSSHConfig="true" />
+    </configs>
+  </component>
+</application>
